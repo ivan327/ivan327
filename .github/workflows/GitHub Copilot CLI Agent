@@ -1,1 +1,1 @@
-
+gh agent-task view <ID_ЗАДАЧИ> --log --follow
